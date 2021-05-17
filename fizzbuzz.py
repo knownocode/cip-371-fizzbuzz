@@ -4,12 +4,7 @@ Prints the Fizz Buzz sequence up to a given number.
 
 Authored by: Section 371 of Code in Place
 Contributors:
-*
-*
-*
-*
-*
-*
+* Jay
 """
 
 def main():
